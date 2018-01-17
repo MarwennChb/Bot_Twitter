@@ -1,5 +1,5 @@
 # Bot_Twitter
-Premier Twitter Bot
+Premier Twitter Bot : JimmyTHPBot
 
 Premier bot Twitter selon les instructions THP.
 
