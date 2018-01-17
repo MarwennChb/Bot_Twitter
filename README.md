@@ -10,3 +10,7 @@ Premier bot Twitter selon les instructions THP.
 Quelques fonctionnalités sympas :
 - Follower automatiquement des utilisateurs selon une liste prédéfinie !!
 - Quelques Tweets
+
+L'url Twitter du Bot est : https://twitter.com/JimmyTHPBot
+
+Les Keys et Token ont été enlevé pour correspondre aux questions de sécurité sur git
